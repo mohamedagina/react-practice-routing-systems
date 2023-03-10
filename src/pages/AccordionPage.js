@@ -22,7 +22,7 @@ function AccordionPage() {
     }
   ];
   return (
-    <div className="App">
+    <div>
       <Accordion items={items} />
     </div>
   );
